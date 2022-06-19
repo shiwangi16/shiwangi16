@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I’m @shiwangi16 - Shiwangi upadhyay. </h1>
+<h1 align="center"> 👋 Hi, I’m @shiwangi16 - Shiwangi Upadhyay. </h1>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="alt_text" width="85%" src="https://wallpaperaccess.com/full/2650434.jpg" />
